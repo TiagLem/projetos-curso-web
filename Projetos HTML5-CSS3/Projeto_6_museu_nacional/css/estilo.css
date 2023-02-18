@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
 }
 
-a:link a:active a:visited {
+a:link, a:active, a:visited {
     color: #af670a;
     text-decoration: none;
 }
